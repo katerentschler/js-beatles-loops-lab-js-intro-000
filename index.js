@@ -27,7 +27,7 @@ var newArray = new Array();
 do{
   //newArray[n] = 'I love the Beatles!';
   newArray.push(`I love the Beatles!`);
-  n--;
+  n++;
 }while(n<15);
 
 return newArray;
